@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+E:\yibaispring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1103839380.index
+2652141410.index
+3490646688.index
+1213771745.index
+1660892542.index
+3382674178.index
+1518904868.index
+3417370011.index

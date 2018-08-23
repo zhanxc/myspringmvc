@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+E:\yibaispring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3382674178.index
+\HelloSpringMVC\src\main\java
+E:\yibaispring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3490646688.index
+\HelloSpringMVC\src\main\resources
