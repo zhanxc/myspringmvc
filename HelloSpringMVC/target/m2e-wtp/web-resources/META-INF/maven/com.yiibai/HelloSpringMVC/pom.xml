@@ -62,7 +62,7 @@
                 <!--
                 <configuration>
                     <path>/</path>
-                    <port>8899</port>
+                    <port>8080</port>
                 </configuration>
                 -->   
             </plugin>
